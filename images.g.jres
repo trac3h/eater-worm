@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAADu7u7uDgAA7u7u7u7OAODuIiLi7s4A7i4r7u7uzgDuIu7u7u7OAO7i7i7u7s7Q7d7d7e7uzN3t3d3t7u7O0N3d3e4u7gwA3d3tLu7uDADQ3e7u7u4MAN3d3e7uzgDQ3d3d7e4MANAN3d3NzAAAAADQ0N0NAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rotting strawberry"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAODuDAAAAAAA7u7OAAAAAOAu7u4MAAAA4O3u7u4AAADg4u7uzgAAAODu7u7OAAAAze7u7u4AAADd7O7uzswAAN3N7O7u7gzQ3QDgLu7uztDdAODt7u7O3Q0A4OLu7s7d3d3N7u7uzt3d3d3s7u7O3d3d3c3u7gzdDQAAAO7MAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rotting cherry"
+    },
+    "image4": {
+        "data": "hwQhACgAAADLzMzMzMzMzMzMzMwAAAAAAAAAANvd3d3d3d3d3d3dvf8AAAAAAAAA2707093d3d3d3d3d/Q8AAAAAAAC73bsz3d3d3d3dHRER/Q8AAAD/D7Db3d3938Hc3d0RERHR/f///90PALvd3f0fEdzdERERERHd3d3d3Q8AwNvd3R0Rsd0REREREd3d3d39DwDA3N0dEfGx2xERERER8f///w8AAMDc3RER/zGzERERERHxAAAAAAAAwNvdERH/MbMdEREREfEAAADw/wC73d3dER/B3N0RERERsf///9/9sNvd3f0fEcHd3d0REdHd3d3d3f273bsz/d/R3N3d3d3d3d3d3d3dzNu9O9Pd3d3d3d3d3d3d3d3MzMwM293d3d3dvbvd3d3d3d3dzAAAAAC7zMzMzMzMzN3d3d3d3c0AAAAAAAAAAAAAAADA293d3d3dzQAAAAAAAAAAAAAAAADb3d3d3d3BAAAAAAAAAAAAAAAAANzd3d3dHcEAAAAAAAAAAAAAAAAA3N3d3d0dwQAAAAAAAAAAAAAAAADc3d3d3R3B/wDwDwAAAAAAAADMzNzd3d3dHcHd/98PAAAAAAAAwN29293d3d0dwd3d3Q8AAAAAAADc3dHb3d3d3R3B/9/dDwAAAAAAsN0d0d3d3d3d3cEA8P8AAAAAAACw3RG9293d3d3dvcwAAAAAAAAAALDdEb273d3d3d3dzQwAAAAAAAAAsN0R0bvd3d3d3d3dzADAzAAAAACw3R0REd3d3d3d3d3NzNzNAAAAALDd3RHR3d3d3d3d3d3d3c0AAAAAANvd3d3dzMzMzMzc3d3dzQAAAAAAu93d3c0MAAAAAMDMzMwMAAAAAAAAu8vMDAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wolf"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAADg7u7uAAAA4O7u7u4OAADu3t3u7u4A4O7e3e7u7gDu7t7d7t3t4O7u7u7u3e3g7u7u7u7d7d7d7t3t7u4O3t3u3e3u7gDe3e7d7e7uAO7u7u7u7g4A4O7u7u7uAADg7u7d7e4AAADu7t3tDgAAAODu3e0AAAAAAODuDgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "good dirt"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
